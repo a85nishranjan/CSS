@@ -1,0 +1,57 @@
+/* h3{
+    color: rgb(0, 255, 55);
+}
+p{
+    color: aqua;
+}
+button{ 
+    color: brown;
+    background-color: chocolate;
+
+}
+body{
+    /* background-color: rgb(255,50,255); 
+    background-color: #ffff00;
+
+} */
+*{
+    color: black;
+}
+button{
+    color: rgb(220, 223, 245);
+}
+#ho1{
+    color: rgb(126, 28, 77);
+}
+.ho5{
+    color: cyan;
+}
+h4,h5{
+    color: rgb(17, 18, 19);
+}
+
+#k{
+    text-align: end;
+    text-decoration: overline wavy;
+}
+a{
+    text-decoration: none;
+}
+#k001{
+    font-weight: normal;
+}
+#k002{
+    font-weight: lighter;
+}
+#k003{
+    font-weight:100;
+    /* normal */
+}
+#m005{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#h006{
+    font-size: 10px;
+    line-height: 10px;
+    text-transform: capitalize;
+}
